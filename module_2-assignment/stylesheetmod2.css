@@ -10,13 +10,13 @@ h1 {
 }
 @media (min-width: 992px) {
     #s1 {
-        width:30%; float:left;
+        width:31% ; float:left;
     }
     #s2 {
-        width:30%; float:left;
+        width:31%; float:left;
     }
     #s3 {
-        width:30%; float: left;
+        width:31%; float: left;
     }
 }
 @media  (min-width: 768px) and (max-width:991px) {
@@ -27,7 +27,7 @@ h1 {
         width:45%; float:left;
     }
     #s3 {
-        width:90%; float:left;
+        width:75%; float:left;
     }
 }
 @media (max-width: 767px) {
