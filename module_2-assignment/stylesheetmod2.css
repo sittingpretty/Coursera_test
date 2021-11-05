@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h1 {
@@ -8,38 +9,43 @@ h1 {
     color:black
 }
 @media (min-width: 992px) {
-    #p1 {
+    #s1 {
         width:33%; float:left;
     }
-    #p2 {
+    #s2 {
         width:33%; float:left;
     }
-    #p3 {
+    #s3 {
         width:33%; float: left;
     }
 }
 @media  (min-width: 768px) and (max-width:991px) {
-    #p1 {
+    #s1 {
         width:50%; float:left;
     }
-    #p2 {
+    #s2 {
         width:50%; float:left;
     }
-    #p3 {
+    #s3 {
         width:100%; float:left;
     }
 }
 @media (max-width: 767px) {
-    #p1 {
+    #s1 {
         width:100%; float:left;
     }
-    #p2 {
+    #s2 {
         width:100%; float:left;
     }
-    #p3 { 
+    #s3 { 
         width:100%; float:left;
     }
 }
-#p1 {
-    
+#s1, #s2, #s3 {
+    text-align: justify;
+    color:black;
+    background-color: cornflowerblue;
+    padding:10px;
+    margin: left 20px;
+    border: solid 3px black;
 }
