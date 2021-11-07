@@ -8,7 +8,9 @@ h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color:black;
     margin-bottom: 20px;
+    background-color:honeydew;
 }
+
 @media (min-width: 992px) {
     #s1 {
         width:31% ; float:left;
@@ -42,7 +44,7 @@ h1 {
         width:95%; float:left;
     }
 }
-#s1, #s2, #s3 {
+#s1 #s2 #s3 {
     text-align: justify;
     color:black;
     background-color: cornflowerblue;
@@ -51,5 +53,5 @@ h1 {
     margin-left:auto;
     border: solid 3px black;
     height:200px;
-    width:90%
+    width:90%;
 }
