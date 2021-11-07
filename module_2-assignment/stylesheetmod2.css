@@ -6,7 +6,8 @@
 h1 {
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color:black
+    color:black;
+    margin-bottom: 20px;
 }
 @media (min-width: 992px) {
     #s1 {
@@ -46,6 +47,9 @@ h1 {
     color:black;
     background-color: cornflowerblue;
     padding:10px;
-    margin: 10px;
+    margin-right:auto;
+    margin-left:auto;
     border: solid 3px black;
+    height:200px;
+    width:90%
 }
