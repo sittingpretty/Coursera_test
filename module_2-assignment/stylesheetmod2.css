@@ -147,15 +147,15 @@ h1 {
     margin-right:auto;
     margin-left:auto;
     margin:20px;
-    border: solid 3px black;
+    border: solid 1px black;
     height:200px;
     width:90%;
     position:relative;
 }
 #p1 {
     background-color: khaki;
-    border-bottom: solid 2px black;
-    border-left: solid 2px black;
+    border-bottom: solid 1px black;
+    border-left: solid 1px black;
     height:12%;
     width: 40%;
     color:black;
@@ -166,8 +166,8 @@ h1 {
 }
 #p2 {
     background-color: red;
-    border-bottom: solid 2px black;
-    border-left: solid 2px black;
+    border-bottom: solid 1px black;
+    border-left: solid 1px black;
     height:12%;
     width: 40%;
     color:black;
@@ -178,8 +178,8 @@ h1 {
 }
 #p3 {
     background-color: greenyellow;
-    border-bottom: solid 2px black;
-    border-left: solid 2px black;
+    border-bottom: solid 1px black;
+    border-left: solid 1px black;
     height:12%;
     width: 40%;
     color:black;
