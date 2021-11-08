@@ -154,7 +154,8 @@ h1 {
 }
 #p1 {
     background-color: khaki;
-    border: solid 2px black;
+    border-bottom: solid 2px black;
+    border-left: solid 2px black;
     height:15%;
     width: 40%;
     color:black;
@@ -165,7 +166,8 @@ h1 {
 }
 #p2 {
     background-color: red;
-    border: solid 2px black;
+    border-bottom: solid 2px black;
+    border-left: solid 2px black;
     height:15%;
     width: 40%;
     color:black;
@@ -176,7 +178,8 @@ h1 {
 }
 #p3 {
     background-color: greenyellow;
-    border: solid 2px black;
+    border-bottom: solid 2px black;
+    border-left: solid 2px black;
     height:15%;
     width: 40%;
     color:black;
