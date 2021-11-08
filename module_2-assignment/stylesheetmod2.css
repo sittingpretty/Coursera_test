@@ -141,7 +141,7 @@ h1 {
     text-align: justify;
     color:black;
     background-color: cornflowerblue;
-    padding-top:20px;
+    padding-top:40px;
     padding-left: 10px;
     padding-right: 10px;
     padding-bottom: 10px;
@@ -156,11 +156,11 @@ h1 {
     background-color: khaki;
     border-bottom: solid 2px black;
     border-left: solid 2px black;
-    height:15%;
+    height:10%;
     width: 40%;
     color:black;
     position:absolute;
-    top: 0%;
+    top: 0px;
     right:0px;
     text-align: center;
 }
@@ -168,7 +168,7 @@ h1 {
     background-color: red;
     border-bottom: solid 2px black;
     border-left: solid 2px black;
-    height:15%;
+    height:10%;
     width: 40%;
     color:black;
     position: absolute;
@@ -180,7 +180,7 @@ h1 {
     background-color: greenyellow;
     border-bottom: solid 2px black;
     border-left: solid 2px black;
-    height:15%;
+    height:10%;
     width: 40%;
     color:black;
     position:absolute;
