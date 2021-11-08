@@ -144,7 +144,6 @@ h1 {
     padding-top:40px;
     padding-left: 10px;
     padding-right: 10px;
-    padding-bottom: 10px;
     margin-right:auto;
     margin-left:auto;
     border: solid 3px black;
@@ -171,7 +170,7 @@ h1 {
     height:12%;
     width: 40%;
     color:black;
-    position: static;
+    position: absolute;
     top:0px;
     right:0px;
     text-align: center;
