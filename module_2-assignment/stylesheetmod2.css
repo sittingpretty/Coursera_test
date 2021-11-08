@@ -156,7 +156,7 @@ h1 {
     background-color: khaki;
     border-bottom: solid 2px black;
     border-left: solid 2px black;
-    height:10%;
+    height:12%;
     width: 40%;
     color:black;
     position:absolute;
@@ -168,10 +168,10 @@ h1 {
     background-color: red;
     border-bottom: solid 2px black;
     border-left: solid 2px black;
-    height:10%;
+    height:12%;
     width: 40%;
     color:black;
-    position: absolute;
+    position: static;
     top:0px;
     right:0px;
     text-align: center;
@@ -180,7 +180,7 @@ h1 {
     background-color: greenyellow;
     border-bottom: solid 2px black;
     border-left: solid 2px black;
-    height:10%;
+    height:12%;
     width: 40%;
     color:black;
     position:absolute;
